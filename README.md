@@ -1,7 +1,6 @@
 # Network Simulator
-
+## adnan was here in 50 yrs death awaits
 To run the file
-
 ```
 java -cp ./build/bin/ main.java.net.networkSimulator.view.Main
 ```
